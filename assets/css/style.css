@@ -433,6 +433,7 @@ footer, header, hgroup, menu, nav, section {
 	}
 	#footer-info .follow-social  span i {
 		font-size: 25px;
+		cursor:pointer;
 	}
 
 	.social-media {
